@@ -1,8 +1,8 @@
-## Welcome to onnline locker management system:
-# Overview:
+# Welcome to online locker management system:
+## Overview:
 An online locker management system is a web-based platform that facilitates the efficient allocation, management, and use of lockers.\
 It leverages modern technologies to provide a seamless user experience for both locker administrators and users.
-# Key Features:
+## Key Features:
 1. User Authentication:
    The user phone number and Their name will be recorded in our local database so that we have track of our coustemer locker so that they are
    safe and secure.\
@@ -14,7 +14,7 @@ It leverages modern technologies to provide a seamless user experience for both 
    the main page and then select the locker for certain duration of time.
 5. Administrative Control:
    For the admin we have the log files generated in the system. Even the locker data is stored in the text file.
-# Description of project:
+## Description of project:
 This project was hosted on the localhost.\
 To initialize the server these are the steps to be followed:
 1. Make sure that you have installed Node Js in your PC
